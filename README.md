@@ -1,4 +1,4 @@
-# Django Rest Framework Profiling
+# Django Rest Framework Profiling Mixins
 
 ## Usage
 
